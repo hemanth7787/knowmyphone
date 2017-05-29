@@ -1,12 +1,11 @@
 ---
 title: About
-description: What does Minimo even means?!
+description: Everything about smartphones.
 menu: main
 weight: -170
 ---
 
-Mínimo is a Spanish word that roughly translate to Minimal.
+KMP is powered by [Hugo][1] using [Minimo][2] theme.
 
-Minimo is a minimalist theme for Hugo.
-
-Minimo keeps the focus on your content and lets it shine!
+[1]: https://themes.gohugo.io/
+[2]: https://themes.gohugo.io/minimo/

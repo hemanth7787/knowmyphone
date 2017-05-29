@@ -1,5 +1,5 @@
 baseURL = "https://hemanth7787.github.io/knowmyphone_blog/"
-title = "Minimo"
+title = "Know My Phone"
 
 theme = "minimo"
 
@@ -7,9 +7,9 @@ googleAnalytics = ""
 Paginate = 3
 
 [params]
-  description = "Minimalist theme for Hugo"
+  description = "Know My Phone blog"
   dateFormat = "2006, Jan 2"
-  copyrightOwner = "MunifTanjim"
+  copyrightOwner = "KMP"
   copyrightStartYear = "2017"
 
 [taxonomies]
@@ -17,21 +17,14 @@ Paginate = 3
   tag = "tags"
 
 [author]
-  name = "Minimo"
+  name = "KMP staff"
 
 [author.social]
-  facebook = "MunifTanjim"
-  github = "MunifTanjim/minimo"
-  twitter = "MunifTanjim"
+  facebook = "."
 
 [permalinks]
   page = "/:slug/"
 
-[[menu.main]]
-  name = "Hugo Themes"
-  weight = -70
-  identifier = "gohugo"
-  url = "https://themes.gohugo.io"
 
 # Language Configuration
 defaultContentLanguage = "en"
